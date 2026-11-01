@@ -1,1 +1,0 @@
-import{x as e}from"./index-BlxjsYaU.js";var t=e(()=>({hoek:null,sleutel:null}));function n(e){return JSON.stringify([e.ruimte,e.openingen,e.items.map(e=>[e.id,e.familie,e.vorm,e.positie,e.rotatie,e.montage])])}export{t as n,n as t};
