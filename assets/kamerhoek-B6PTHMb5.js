@@ -1,0 +1,1 @@
+import{ct as e}from"./index-imYFlmY9.js";var t=e(()=>({hoek:null,sleutel:null}));function n(e){return JSON.stringify([e.ruimte,e.openingen,e.items.map(e=>[e.id,e.familie,e.vorm,e.positie,e.rotatie,e.montage])])}export{t as n,n as t};
